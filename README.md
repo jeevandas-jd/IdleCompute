@@ -8,15 +8,6 @@
 
 ---
 
-## 📌 A note for the team (read this first)
-
-I'm not on-site for this round, so this README is doing double duty — it's both the project doc and how I'm staying in sync with the team and organizers. Please:
-
-- Keep this file updated as things change during the build — especially the **Status** section below.
-- If something's blocked or a design decision needs to be made on the spot, note it under **Open Questions / Decisions Needed** so I can weigh in async, and don't let it stall the build.
-- If organizers or judges ask anything about scope, architecture, or the "why" of the project, everything here should have you covered — but ping me if something's missing.
-
----
 
 ## 🧩 The Problem
 
