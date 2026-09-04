@@ -4,8 +4,6 @@
 
 > Track: **Inclusive Innovation — Access Without Limits**
 > Status: 🚧 v1 — Hackathon Build (Offline Round)
-> Team Lead (remote): **Jeevandas** — Integrated M.Tech, AI & Data Science, Cochin University of Science and Technology
-
 ---
 
 
